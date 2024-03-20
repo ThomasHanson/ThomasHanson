@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Computer Science Student looking for Software Engineering positions</h3>
+<h3 align="center">Computer Science Graduate looking for Software Engineering positions</h3>
 
 - 🔭 I’m currently working on [thanson-dev](https://thanson.dev/)
 
